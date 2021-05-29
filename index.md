@@ -12,6 +12,8 @@ Finding a path to enlightenment in _Programming Language Theory_ can be a tough 
 Note that I've attempted to order the books in order of most "tackleable". So the idea is to read books from top to bottom. As always, it depends on your background and inclinations. It would be nice to provide multiple paths through this material for folks with different backgrounds and even folks with different goals. However, for now, it is what it is.
 
 
+# Introduction to implementation of programming language
+  - [BCD] (http://hjemmesider.diku.dk/~torbenm/Basics/) - Basics of Compiler Design, by Torben Mogensen. The book is free and legal to download on the webside provided, it is my former professor and I have ask before posting this. The book is an older model of the book used at University of Copenhagen (Denmark) in the course Implementation of programming language, which is a mandetory course on the bachelor in computer science.
 
 Mathematical Literacy
 ---------------------
